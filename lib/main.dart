@@ -34,6 +34,7 @@ class _MainAppState extends State<MainApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: false),
       title: 'ManHole Monitoring - 데이터 플로우 테스트',
       home: const Scaffold(
