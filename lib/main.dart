@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 import 'package:window_manager/window_manager.dart';
 
 // import 'package:flutter/rendering.dart' show debugPaintSizeEnabled;
